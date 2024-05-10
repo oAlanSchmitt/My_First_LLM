@@ -1,1 +1,1 @@
-# My_First_LLM
+# Projeto Aluro + Google Gemini
